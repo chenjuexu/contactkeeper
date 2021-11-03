@@ -1,0 +1,4 @@
+{
+  "mongoURI":"mongodb+srv://contactkeeper:contactkeeper@cluster0.7tnvc.mongodb.net/test",
+  "jwtSecret": "secret"
+}
