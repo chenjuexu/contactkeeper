@@ -17,11 +17,11 @@ Full stack MERN contact manager with React hooks, context & JWT authentication A
 ## Live demo
 
 Live demo of the app is hosted on Heroku.  
-Visit [http://xander-contact-keeper.herokuapp.com/](http://xander-contact-keeper.herokuapp.com/)
+Visit [https://contact-purse.herokuapp.com](https://contact-purse.herokuapp.com)
 
 Test user credentials:
 
-> login - _test@mail.com_  
+> login - _example@example.com_  
 > password - _123456_
 
 _Due to demo reasons and heroku free terms, if an app receives no web traffic in a 30-minute period, it will sleep. Therefore, during the first launch, the application may take longer to load than usual, approximately 15 - 20 seconds. So please be patient and wait for the app to launch. Subsequent launches will be relatively fast._
@@ -49,7 +49,7 @@ _Due to demo reasons and heroku free terms, if an app receives no web traffic in
 Clone this repository to desired location
 
 ```Shell
-git clone https://github.com/XanderUZZZER/contact-keeper.git
+git clone https://github.com/chenjuexu/contactkeeper.git
 ```
 
 <br>
